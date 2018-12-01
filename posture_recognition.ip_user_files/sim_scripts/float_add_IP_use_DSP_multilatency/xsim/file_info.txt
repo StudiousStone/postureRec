@@ -1,0 +1,2 @@
+float_add_IP_use_DSP_multilatency.vhd,vhdl,xil_defaultlib,../../../ip/float_add_IP_use_DSP_multilatency/sim/float_add_IP_use_DSP_multilatency.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../posture_recognition.ip_user_files/ip/floating_point_compare/sim/floating_point_compare.vhd" \
+"../../../../posture_recognition.ip_user_files/ip/float_multiply/sim/float_multiply.vhd" \
+"../../../../posture_recognition.ip_user_files/ip/float_add_IP_use_DSP_multilatency/sim/float_add_IP_use_DSP_multilatency.vhd" \
+"../../../../posture_recognition.ip_user_files/ip/image_ram_rd_addr_add/sim/image_ram_rd_addr_add.vhd" \
+"../../../../posture_recognition.ip_user_files/ip/sub_unit/sim/sub_unit.vhd" \
+
+# Do not sort compile order
+nosort

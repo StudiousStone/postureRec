@@ -1,0 +1,149 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/network_parameters.vh" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/combine2data_fifo/sim/combine2data_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module combine2data_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/fifo_shift_window/sim/fifo_shift_window.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_shift_window
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/stayInstep_fifo/sim/stayInstep_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stayInstep_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/post_image_ram/sim/post_image_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module post_image_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/image_prerd_toaxi_fifo/sim/image_prerd_toaxi_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module image_prerd_toaxi_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/image_ram/sim/image_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module image_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/kernel_fifo/sim/kernel_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module kernel_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/head_fifo/sim/head_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module head_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/ip/head_for_interate_dram/sim/head_for_interate_dram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module head_for_interate_dram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/PLL/PLL_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PLL_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.ip_user_files/ip/PLL/PLL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PLL
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/AXI_4KBboundary.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AXI_4KBboundary
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/CalImageChannel_replication.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CalImageChannel_replication
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/activation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module activation
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/addTree.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addTree
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/addr_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addr_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/axi_interface_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_interface_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/axi_read_image_cnt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_read_image_cnt
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/axi_read_write_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_read_write_master
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/bandWidth_count.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bandWidth_count
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/batch_norm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module batch_norm
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/buffer_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module buffer_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/cal_image.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cal_image
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/conv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module conv
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/counter_addr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_addr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/data_from_window.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_from_window
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/deal_PostImage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module deal_PostImage
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/err_detect.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module err_detect
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/head_bufer_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module head_bufer_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/image_ram_multi_addr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module image_ram_multi_addr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/image_read_buffer_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module image_read_buffer_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/image_shift_rc_noaddzero_cnt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module image_shift_rc_noaddzero_cnt
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/image_write_buffer_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module image_write_buffer_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/information_read_write.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module information_read_write
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/interrupt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module interrupt
+INFO: [VRFC 10-311] analyzing module inter_finish_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/iterate_head.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module iterate_head
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/kernel_buffer_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module kernel_buffer_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/leaky_activation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module leaky_activation
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/linear_activation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module linear_activation
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/load_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module load_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/load_head.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module load_head
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/load_image.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module load_image
+INFO: [VRFC 10-311] analyzing module image_shift_rc_cnt
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/load_kernel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module load_kernel
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/max_pooling.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module max_pooling
+INFO: [VRFC 10-311] analyzing module maxpooling_finish_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/mul_results_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mul_results_adder
+INFO: [VRFC 10-311] analyzing module sumorder_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/multi_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multi_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/multi_rd_addr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multi_rd_addr
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/multiplier_3x.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplier_3x
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/mux_3to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_3to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/mux_head_image_kernel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_head_image_kernel
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/mux_ramtofifo_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_ramtofifo_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/pl_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_top
+INFO: [VRFC 10-2458] undeclared symbol axi_clk, assumed default net type wire [D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/pl_top.v:240]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/postImage_channel_choose.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module postImage_channel_choose
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/post_to_ram_virtual_path.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module post_to_ram_virtual_path
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/ram_to_cal_virtual_path.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram_to_cal_virtual_path
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/ram_to_post_virtual_path.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram_to_post_virtual_path
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/reset.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reset
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/row_col_ptr_gen_for_2unite.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module row_col_ptr_gen_for_2unite
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/shift_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/shift_window.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_window
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/stayInstep.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stayInstep
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/sub_com.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sub_com
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/sumChannels.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sumChannels
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/summation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module summation
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/update.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module update
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/user_maxpooling_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module user_maxpooling_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/user_update_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module user_update_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/wfifo_location_cal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wfifo_location_cal
+INFO: [VRFC 10-311] analyzing module wfifo_mux
+INFO: [VRFC 10-311] analyzing module wfifo_invalid_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/wr_rd_finish_cnt_threshhold.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wr_rd_finish_cnt_threshhold
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sources_1/new/network_parameters.vh" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/postureRec/posture_recognition/posture_recognition.srcs/sim_1/new/axi_bus.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axi_bus

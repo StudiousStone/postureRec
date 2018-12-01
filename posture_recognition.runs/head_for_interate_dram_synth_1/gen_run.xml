@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="head_for_interate_dram_synth_1" LaunchPart="xczu9eg-ffvb1156-2-e" LaunchTime="1529798789">
+  <File Type="PA-TCL" Name="head_for_interate_dram.tcl"/>
+  <File Type="REPORTS-TCL" Name="head_for_interate_dram_reports.tcl"/>
+  <File Type="RDS-RDS" Name="head_for_interate_dram.vds"/>
+  <File Type="RDS-UTIL" Name="head_for_interate_dram_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="head_for_interate_dram_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="head_for_interate_dram.dcp"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/head_for_interate_dram">
+    <File Path="$PSRCDIR/sources_1/ip/head_for_interate_dram/head_for_interate_dram.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="head_for_interate_dram"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/head_for_interate_dram">
+    <File Path="$PSRCDIR/sources_1/ip/head_for_interate_dram/head_for_interate_dram.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="head_for_interate_dram"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

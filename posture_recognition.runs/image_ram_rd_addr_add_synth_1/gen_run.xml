@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="image_ram_rd_addr_add_synth_1" LaunchPart="xczu9eg-ffvb1156-2-e" LaunchTime="1529798791">
+  <File Type="PA-TCL" Name="image_ram_rd_addr_add.tcl"/>
+  <File Type="REPORTS-TCL" Name="image_ram_rd_addr_add_reports.tcl"/>
+  <File Type="RDS-RDS" Name="image_ram_rd_addr_add.vds"/>
+  <File Type="RDS-UTIL" Name="image_ram_rd_addr_add_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="image_ram_rd_addr_add_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="image_ram_rd_addr_add.dcp"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/image_ram_rd_addr_add">
+    <File Path="$PSRCDIR/sources_1/ip/image_ram_rd_addr_add/image_ram_rd_addr_add.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/ip/image_ram_rd_addr_add.xcix">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="image_ram_rd_addr_add"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/image_ram_rd_addr_add">
+    <File Path="$PSRCDIR/sources_1/ip/image_ram_rd_addr_add/image_ram_rd_addr_add.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/ip/image_ram_rd_addr_add.xcix">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="image_ram_rd_addr_add"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

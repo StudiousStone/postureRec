@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="combine2data_fifo_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/combine2data_fifo_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="fifo_shift_window_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/fifo_shift_window_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="float_add_IP_use_DSP_multilatency_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/float_add_IP_use_DSP_multilatency_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="float_multiply_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/float_multiply_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="floating_point_compare_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/floating_point_compare_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="head_fifo_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/head_fifo_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="head_for_interate_dram_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/head_for_interate_dram_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="image_prerd_toaxi_fifo_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/image_prerd_toaxi_fifo_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="image_ram_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/image_ram_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="image_ram_rd_addr_add_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/image_ram_rd_addr_add_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="kernel_fifo_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/kernel_fifo_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="PLL_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/PLL_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="post_image_ram_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/post_image_ram_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="stayInstep_fifo_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/stayInstep_fifo_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="sub_unit_synth_1" LaunchDir="D:/postureRec/posture_recognition/posture_recognition.runs/sub_unit_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+
